@@ -1,4 +1,4 @@
-package imageviewer.ui;
+package imageviewer.persistence;
 
 import imageviewer.model.Image;
 
